@@ -1,0 +1,17 @@
+{
+	"geode": "1.0.0",
+	"gd": {
+		"win": "2.2081",
+	    "mac": "2.2081",
+		"android": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "jacho22.ecuadortvpromos",
+	"name": "EcuadorTV Promos",
+	"version": "1.0.0",
+	"developer": "jacho22",
+	"description": "Adds the ability to view EcuadorTV promos in the game.",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}

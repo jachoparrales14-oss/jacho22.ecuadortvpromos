@@ -1,0 +1,1 @@
+find . -maxdepth 3 \( -name '*.cpp' -o -name '*.c' -o -name '*.cc' -o -name '*.h' -o -name '*.hpp' -o -name 'CMakeLists.txt' -o -name 'build.gradle' -o -name 'package.json' \) | sort > file_list.txt
